@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Empath1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="O365URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://sharepoint411.sharepoint.com/sites/Empathic</Value>
+    </Setting>
+    <Setting Name="O365LoginAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jallison@sharepoint411.ca</Value>
+    </Setting>
+    <Setting Name="LogFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\MyLogs</Value>
+    </Setting>
+    <Setting Name="LoggingOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
